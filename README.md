@@ -1,8 +1,9 @@
-- 👋 Hi, I’m RealMind
+- 👋 Hi, I’m God's Project
 - 👀 I’m interested in tech and design alone
-- 🌱 I’m currently learning php and javascript, will soon move into learning reactJs
+- 🌱 A Data Scientist and a machine learning engineer
 - 💞️ I’m looking to collaborate on networking
 - 📫 You can reach me on omolevictor97@gmail.com, omolevictor97@yahoo.com, +2348106494031
+- My LinkedIn account will soon be added
 
 <!---
 omolevictor97/omolevictor97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
